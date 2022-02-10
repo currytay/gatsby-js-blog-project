@@ -1,3 +1,16 @@
+# GatsbyJS Blog Project
+
+This was a self-directed "hackathon" project to build a GatsbyJS site using WPGraphQL to source data from WordPress (first time working with both). I built and styled the site locally in 1-2 evenings.
+
+### Built With
+
+- GatsbyJS (using [Gatsby’s default starter theme](https://github.com/gatsbyjs/gatsby-starter-default))
+- WordPress 
+- [WPGraphQL](https://wordpress.org/plugins/wp-graphql/)
+- HTML5 + CSS3
+- [Styled components](https://styled-components.com/)
+- [Hispter Ipsum](https://hipsum.co/) to generate the filler text
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
